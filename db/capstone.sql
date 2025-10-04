@@ -18,7 +18,11 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
+<<<<<<< HEAD
 -- Database: `capstone`
+=======
+-- Database: `parul_university_lms`
+>>>>>>> 41343db (Added LMS project files)
 --
 
 -- --------------------------------------------------------

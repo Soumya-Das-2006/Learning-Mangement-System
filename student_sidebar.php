@@ -22,9 +22,16 @@
 					<span class="badge badge-important"><?php echo $count_message; ?></span>
 				<?php } ?>
 			</a>
+<<<<<<< HEAD
 			</li>
 			 <li class=""><a href="backpack.php"><i class="icon-chevron-right"></i><i class="icon-suitcase"></i>&nbsp;Backpack</a></li>
 		</ul>
+=======
+		</li>
+		<li class=""><a href="backpack.php"><i class="icon-chevron-right"></i><i class="icon-suitcase"></i>&nbsp;Backpack</a></li>
+        <li class=""><a href="student_online.php"><i class="icon-chevron-right"></i><i class="icon-facetime-video"></i>&nbsp;Online Classes</a></li>
+</ul>
+>>>>>>> 41343db (Added LMS project files)
 					<?php /* include('search_other_class.php');  */?>	
 </div>
 

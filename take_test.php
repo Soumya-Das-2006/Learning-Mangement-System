@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?php include('header_dashboard.php'); ?>
+=======
+treetr<?php include('header_dashboard.php'); ?>
+>>>>>>> 41343db (Added LMS project files)
 <?php include('session.php'); ?>
 <?php $get_id = $_GET['id']; ?>
 <?php $class_quiz_id = $_GET['class_quiz_id']; ?>

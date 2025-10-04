@@ -9,7 +9,11 @@ var $link;
         ob_start();
   // Get the main settings from the array we just loaded
         $host = 'localhost';
+<<<<<<< HEAD
         $db = 'capstone';
+=======
+        $db = 'parul_university_lms';
+>>>>>>> 41343db (Added LMS project files)
         $user = 'root';
         $pass = '';
 
@@ -26,7 +30,11 @@ function DbConnector(){
 
         // Get the main settings from the array we just loaded
         $host = 'localhost';
+<<<<<<< HEAD
         $db = 'capstone';
+=======
+        $db = 'parul_university_lms';
+>>>>>>> 41343db (Added LMS project files)
         $user = 'root';
         $pass = '';
 

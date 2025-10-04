@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 <?php include('header_dashboard.php'); ?>
+=======
+<?php 
+error_reporting(0);
+
+include('header_dashboard.php'); ?>
+>>>>>>> 41343db (Added LMS project files)
     <body id="class_div">
 		<?php include('navbar_about.php'); ?>
         <div class="container-fluid">
