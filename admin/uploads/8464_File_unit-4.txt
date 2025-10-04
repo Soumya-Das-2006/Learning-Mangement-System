@@ -1,0 +1,40 @@
+📋 2-MARKS IMPORTANT QUESTIONS (Clean List)
+
+No.	Question
+1	Define an enumerator in C.
+2	List any two advantages of using enumerators.
+3	Mention two limitations of enumerators in C.
+4	What is the purpose of using typedef in C?
+5	Differentiate between structure and array (any two points).
+6	Write syntax to declare a structure in C.
+7	What is an anonymous structure? Write its syntax.
+8	State two uses of union in C programming.
+9	What is structure padding?
+10	Define self-referential structure.
+📋 3/4-MARKS IMPORTANT QUESTIONS (Clean List)
+
+No.	Question
+1	Explain features of enumerators in C with example.
+2	Write syntax to declare and use enumerators in C. Give example.
+3	What are the advantages and limitations of enumerators?
+4	Compare structure and union with a table.
+5	Compare structure and array.
+6	Write a C program to declare a student structure and initialize members.
+7	Explain dot (.) operator and arrow (->) operator with syntax and example.
+8	Explain two methods of declaring structure variables with examples.
+9	Write a short note on array of structures with syntax.
+10	What is nested structure? Write syntax and give example.
+11	Explain passing structure to function: (i) By Value, (ii) By Reference.
+12	Write syntax and example to define and access a union.
+13	Discuss key characteristics of unions.
+14	Write a short note on pointer to structure.
+15	Write a C program to display book details using structure.
+🎯 Possible 6-MARKS LONG ANSWER QUESTIONS (Important for Exam)
+
+No.	Question
+1	Explain structure and function together with passing by value and reference examples.
+2	Write a C program to create array of structures for students and display their details.
+3	Explain structure padding with example and discuss how it affects memory.
+4	What is a union? Explain memory sharing concept with program examples.
+5	Define nested structure. Write a program to display student address details using nested structures.
+6	Compare structure and union in C with detailed examples and a table.
