@@ -1,4 +1,1 @@
-<?php
-include("dbConnector.php"); 
-$connector = new DbConnector();
-?>
+src/Backend/Config/opener_db.php
